@@ -1,6 +1,8 @@
 # Task Manager
 
 A simple full-stack Task Manager built with React (frontend) and Node.js + Express (backend).
+<img width="1241" height="580" alt="image" src="https://github.com/user-attachments/assets/12dd75d7-d0aa-45ad-843d-22a37ee41ca1" />
+
 
 ## Stack
 
